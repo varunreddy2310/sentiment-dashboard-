@@ -1,0 +1,6 @@
+tweepy
+textblob
+pandas
+matplotlib
+wordcloud
+ipywidgets
